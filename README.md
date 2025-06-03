@@ -1,6 +1,6 @@
 # 🔐 Python Port Scanner
 
-A efficient *Port Scanner* built using Python, designed for basic network reconnaissance and educational cybersecurity practice.
+An efficient *Port Scanner* built using Python, designed for basic network reconnaissance and educational cybersecurity practice.
 
 
 📌 Project Overview
