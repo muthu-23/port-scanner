@@ -1,12 +1,15 @@
 # 🔐 Python Port Scanner
+---
 
 An efficient *Port Scanner* built using Python, designed for basic network reconnaissance and educational cybersecurity practice.
 
+---
 
 📌 Project Overview
 
 This tool scans a specified IP address across a defined range of ports to identify open TCP ports. It is a beginner-friendly project created to demonstrate the fundamentals of socket programming and port-level scanning.
 
+---
 
 ⚙ Features
 
@@ -16,6 +19,7 @@ This tool scans a specified IP address across a defined range of ports to identi
 - ✅ Clean and minimal command-line interface
 - ✅ Built using python's socket library
 
+---
 
 
 🛠 Technologies Used
@@ -24,6 +28,7 @@ This tool scans a specified IP address across a defined range of ports to identi
 - socket – For handling network connections
 - sys – To manage system-level operations
 
+---
 
 
 🚀 How to Use
@@ -33,7 +38,7 @@ This tool scans a specified IP address across a defined range of ports to identi
    git clone https://github.com/muthu-23/port-scanner.git
    cd port-scanner
 
-
+---
 
 📷 Example Output
 
@@ -46,6 +51,7 @@ Port 135 is OPEN
 Port 445 is OPEN
 
 
+---
 
 🎯Learning Objectives
 
@@ -56,18 +62,20 @@ This project was built as part of my cybersecurity learning journey to:
 -Practice basic ethical hacking tools development
 
 
+--
 
 📁 Project Status
 
 ✅ Completed — actively maintained for learning purposes.
 
 
+---
 
 📄 License
 
 This project is intended strictly for educational and ethical use only. Unauthorized scanning of networks without permission is illegal.
 
-
+---
 
 🙌 Author
 
@@ -79,7 +87,7 @@ Vels University, Chennai (Pallavaram)
 
 GitHub: muthu-23
 
-
+---
 
 💡 Future Enhancements
 
