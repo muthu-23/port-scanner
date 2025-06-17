@@ -81,7 +81,7 @@ This project is intended strictly for educational and ethical use only. Unauthor
 
 Muthusamy T.
 
-B.Sc Cybersecurity Student
+B.Sc computer science (Cybersecurity) Student
 
 Vels University, Chennai (Pallavaram)
 
