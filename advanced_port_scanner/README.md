@@ -1,10 +1,12 @@
 #🔐 Advanced Python Port Scanner
 
-An advanced *Port Scanner* built using Python, designed to provide improved port scanning accuracy, flexible IP and port range validation, and faster scanning experience for deeper cybersecurity exploration.
+---
 
 📌 Project Overview
 
-This tool allows users to scan a specific IP address across a custom-defined port range to detect open TCP ports. With enhanced input validation and optimized scanning using sockets, this tool provides better control and learning for users studying network security.
+An advanced *Port Scanner* built using Python, designed to provide improved port scanning accuracy, flexible IP and port range validation, and faster scanning experience for deeper cybersecurity exploration.This tool allows users to scan a specific IP address across a custom-defined port range to detect open TCP ports. With enhanced input validation and optimized scanning using sockets, this tool provides better control and learning for users studying network security.
+
+---
 
 ✅ Features
 
@@ -14,6 +16,8 @@ This tool allows users to scan a specific IP address across a custom-defined por
 -  Clean command-line interface with meaningful feedback
 -  Measures scan duration and displays total time taken
 
+---
+
 🛠 Technologies Used
 
 - Python 3.x
@@ -21,6 +25,7 @@ This tool allows users to scan a specific IP address across a custom-defined por
 - re – For validating IP addresses using regex
 - time – To measure scanning performance
 
+---
 
 📸example output
 
@@ -34,12 +39,13 @@ Enter end port (e.g., 80): 99
 
 Scanning 127.0.0.1 from port 30 to 99...
 
-
 Scan complete.
 
 Total Open Ports: 0
 
 Time Taken: 35.67 seconds
+
+---
 
 🎯 Learning Objectives
 
@@ -53,24 +59,32 @@ Time Taken: 35.67 seconds
 
 -Practice responsible ethical hacking concepts
 
+---
 
 📊 Project Status
 
 ✅ Completed — stable for learning and experimentation.
 
+---
+
 📜 License
 
 This project is strictly for educational and ethical use only. Unauthorized scanning of networks without permission is illegal and discouraged.
+
+---
 
 👨‍💻 Author
 
 Muthusamy T.
 
-B.Sc Cybersecurity Student
+B.Sc computer science (Cybersecurity) Student
 
 Vels University, Chennai (Pallavaram)
 
 GitHub: muthu-23
+
+---
+
 
 💡 Future Enhancements
 
